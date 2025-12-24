@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlDeprecatedTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MsOrderByInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pySyncatron" />
+          <option value="PyElmecDocs" />
+          <option value="PyElmecAuth" />
+          <option value="django-health-check" />
+          <option value="PythonProxyConnector" />
+          <option value="PyElmecPagination" />
+          <option value="PyElmecAudit" />
+          <option value="PythonStandardLib" />
+          <option value="job-logger" />
+          <option value="Django" />
+          <option value="djangorestframework" />
+          <option value="python-memcached" />
+          <option value="django-cachalot" />
+          <option value="django-mptt" />
+          <option value="semantic-version" />
+          <option value="python-dateutil" />
+          <option value="django-filter" />
+          <option value="beautifulsoup4" />
+          <option value="pymemcache" />
+          <option value="requests" />
+          <option value="gevent" />
+          <option value="yfinance" />
+          <option value="kafka-python" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
