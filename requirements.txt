@@ -1,2 +1,4 @@
+yfinance
+kafka-python
 newsapi-python
 confluent-kafka
